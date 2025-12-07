@@ -1,4 +1,5 @@
-Hey 👋
+## Hey 👋
+Ich bin Zocker und hier findest du coole Projekte von mir!
 
 ## Infos
 - Komme aus Deutschland
